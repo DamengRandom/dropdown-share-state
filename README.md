@@ -16,4 +16,10 @@ You will also see any lint errors in the console.
 
  -- Promise.race() for API fetch (fetch timeout handler)
 
- -- state sharing between parent na dchildren components
+ -- state sharing between parent and children components
+
+ -- json server local setup (Check local repo) [cmd: `json-server -p 5555 db.json`]
+
+ ### `Ooops`
+ 
+ For Damon record only, if you need to run the app, please contact Author (Dameng), cheers !!
